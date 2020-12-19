@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{RXBc:function(t,e,n){"use strict";n.r(e);var s=n("q1tI");e.default=function(){return s.createElement("img",{style:{maxWidth:"100%"},src:"/static/images/den-soq-logo.png"})}}}]);
+//# sourceMappingURL=component---src-pages-index-js-3888b4ad0c0355afe9dd.js.map
