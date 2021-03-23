@@ -25,7 +25,7 @@
   "dependencies": {
     "mysql": "^2.18.1",
     "next": "^10.0.9",
-    "next-auth": "latest",
+    "next-auth": "^3.13.2",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "sqlite3": "^5.0.2"
